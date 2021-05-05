@@ -1,0 +1,22 @@
+:root {
+  --coco-blue: #0a2655;
+  --coco-gray: #929292;
+}
+
+.bg-coco-blue {
+  background-color: var(--coco-blue);
+}
+
+.text-coco-gray{
+  color: var(--coco-gray);
+}
+
+.bg-coco-gradient{
+  background: radial-gradient(circle, rgba(126,74,226,1) 0%, rgba(81,0,134,1) 100%);
+}
+.bg-flower-top{
+  background: url(https://lumiere-a.akamaihd.net/v1/images/mb_coco_trailer_76c5611e.jpeg?region=0%2C0%2C2048%2C952)
+}
+.bg-flower-bottom{
+  background: url(https://lumiere-a.akamaihd.net/v1/images/mb_coco_synopsis_4e816b65.jpeg?region=0%2C0%2C2048%2C567)
+}
